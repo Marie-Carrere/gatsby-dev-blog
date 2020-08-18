@@ -6,4 +6,4 @@ const Button = () => {
   return <button onClick={() => setCount(count + 1)}>click({count})</button>
 }
 
-export default Button;
+export default Button; 

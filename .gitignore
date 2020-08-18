@@ -1,7 +1,7 @@
 node_modules
-node_modules
 public
 .cache
 yarn-error.log
+.DS_Store
 # Local Netlify folder
 .netlify
